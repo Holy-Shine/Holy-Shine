@@ -16,14 +16,15 @@
     <img src="https://badges.pufler.dev/commits/monthly/Holy-Shine?style=flat-square&color=black&logo=github">
   </a>
 
-**Languages**
+
+#### **Languages**
 
 [![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c++-1F4362?style=flat-square&logo=cplusplus&logoColor=ffffff)](http://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-R-8597BF?style=flat-square&logo=R&logoColor=ffffff)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/-markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)]()
 
-**Framework**
+#### **Framework**
 
 [![](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-tensorflow-FF7600?style=flat-square&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
