@@ -21,7 +21,9 @@
 
 [![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c++-1F4362?style=flat-square&logo=cplusplus&logoColor=ffffff)](http://www.cplusplus.com/)
+[![](https://img.shields.io/badge/-java-196D80?style=flat-square&logo=java&logoColor=ffffff)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-R-8597BF?style=flat-square&logo=R&logoColor=ffffff)](https://www.r-project.org/)
+[![](https://img.shields.io/badge/-mysql-3E6E93?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)]()
 
 #### **Framework**
@@ -31,3 +33,7 @@
 [![](https://img.shields.io/badge/-keras-D00000?style=flat-square&logo=Keras&logoColor=ffffff)](https://keras.io/)
 [![](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-jupyter-F37726?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
+
+#### **Game Platform**
+[![](https://img.shields.io/badge/-NintendoSwitch-E60012?style=flat-square&logo=nintendoswitch&logoColor=ffffff)](https://www.nintendo.com/switch/)
+[![](https://img.shields.io/badge/-steam-171A21?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com/)
