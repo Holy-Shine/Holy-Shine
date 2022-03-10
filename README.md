@@ -29,11 +29,13 @@
 #### **Framework**
 
 [![](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-kubernetes-316CE6?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-tensorflow-FF7600?style=flat-square&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-keras-D00000?style=flat-square&logo=Keras&logoColor=ffffff)](https://keras.io/)
 [![](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-jupyter-F37726?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![](https://img.shields.io/badge/-Qt-30CE4C?style=flat-square&logo=Qt&logoColor=ffffff)](https://www.qt.io/)
+
 
 #### **Game Platform**
 [![](https://img.shields.io/badge/-NintendoSwitch-E60012?style=flat-square&logo=nintendoswitch&logoColor=ffffff)](https://www.nintendo.com/switch/)
