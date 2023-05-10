@@ -2,17 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holy-Shine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Holy-Shine">
-    <img src="https://badges.pufler.dev/visits/Holy-Shine/Holy-Shine?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Holy-Shine">
-    <img src="https://badges.pufler.dev/years/Holy-Shine?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Holy-Shine?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Holy-Shine?style=flat-square&color=black&logo=github">
-  </a>
-
-
 
 #### **Languages**
 
